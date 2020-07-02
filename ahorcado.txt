@@ -1,0 +1,13 @@
+helicoptero
+murcielago
+puerta
+picaporte
+ventana
+arbol
+bosque
+pajaro
+mariposa
+lengua
+barrio
+escuela
+hospital
